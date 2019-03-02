@@ -8,6 +8,7 @@ hello from the second branch
 
 
 
+<<<<<<< HEAD
 hey from the actual second branch
 
 
@@ -27,3 +28,5 @@ a
 bit
 more
 stuff
+=======
+>>>>>>> master
