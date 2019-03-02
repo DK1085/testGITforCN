@@ -8,3 +8,25 @@ hello from the second branch
 
 
 
+<<<<<<< HEAD
+hey from the actual second branch
+
+
+
+
+
+
+
+
+adding
+a 
+bit
+more
+stuff
+adding
+a 
+bit
+more
+stuff
+=======
+>>>>>>> master
